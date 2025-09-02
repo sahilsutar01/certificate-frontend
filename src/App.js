@@ -4,7 +4,7 @@ import AccreditationRegistryABI from "./AccreditationRegistryABI.json";
 import "./App.css";
 
 // --- CONSTANTS ---
-const backendURL = "http://localhost:5001";
+const backendURL = "https://certificate-backend-urqy.onrender.com";
 const CONTRACT_ADDRESS = "0x235c70b08696b89Aac2Dd8e4e4e43003b44Ed7E6";
 
 // --- SVG ICONS ---
